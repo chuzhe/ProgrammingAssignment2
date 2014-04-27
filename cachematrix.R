@@ -1,9 +1,11 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These two functions cache the 
+## inverse of a matrix
 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+        teset
+        test
 
 }
 
